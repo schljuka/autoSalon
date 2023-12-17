@@ -25,7 +25,7 @@ html = `
                 <form action="" method="">
 
                     <input type="text" id="tbDeoModel" name="tbDeoModel"
-                        placeholder="&#x1F50D Potrazite Vas model" />
+                        placeholder="&#x1F50D Pronadjite Vas model" />
                 </form>
                 <form action="" method="">
                     <label for="rnCena">Cena u opsegu od 0 do <span id="cenaIzbor">50000</span>: </label>
